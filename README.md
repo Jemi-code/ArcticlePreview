@@ -5,7 +5,7 @@
 ![](Screenshot.png)
 
 - Solution URL: [Github](https://github.com/Jemi-code/ArcticlePreview)
-- Live Site URL: [Live Site](https://jemi-code.github.io/ArticlePreview)
+- Live Site URL: [Live Site](https://jemi-code.github.io/ArcticlePreview/)
 
 
 - Semantic HTML5 markup
